@@ -1,0 +1,10 @@
+20ms of 20ms total (  100%)
+      flat  flat%   sum%        cum   cum%
+      10ms 50.00% 50.00%       10ms 50.00%  runtime._ExternalCode
+      10ms 50.00%   100%       10ms 50.00%  runtime.pcvalue
+         0     0%   100%       10ms 50.00%  runtime._System
+         0     0%   100%       10ms 50.00%  runtime.copystack
+         0     0%   100%       10ms 50.00%  runtime.funcspdelta
+         0     0%   100%       10ms 50.00%  runtime.gentraceback
+         0     0%   100%       10ms 50.00%  runtime.morestack
+         0     0%   100%       10ms 50.00%  runtime.newstack
